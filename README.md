@@ -10,3 +10,4 @@ Implementation notes:
 1. Use Hexagonal architecture (ease the change of DB for testing - test using in-memory db)
 2. MSSQL for integration test
 3. Start with Domain Driven Design
+4. Use Github action for CI/CD
